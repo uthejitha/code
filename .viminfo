@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1755667131,,"wq!"
+|2,0,1755667640,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,88 @@
 # Registers:
 
 # File marks:
-'0  2  5  ~/.gitignore
-|4,48,2,5,1755667131,"~/.gitignore"
-'1  2  0  ~/.gitignore
-|4,49,2,0,1755666952,"~/.gitignore"
-'2  2  17  ~/uthejitha
-|4,50,2,17,1755665668,"~/uthejitha"
-'3  2  16  ~/uthejitha
-|4,51,2,16,1755665617,"~/uthejitha"
+'0  10  0  ~/.git/COMMIT_EDITMSG
+|4,48,10,0,1755668092,"~/.git/COMMIT_EDITMSG"
+'1  2  0  ~/raja
+|4,49,2,0,1755667640,"~/raja"
+'2  2  5  ~/.gitignore
+|4,50,2,5,1755667131,"~/.gitignore"
+'3  2  0  ~/.gitignore
+|4,51,2,0,1755666952,"~/.gitignore"
+'4  2  17  ~/uthejitha
+|4,52,2,17,1755665668,"~/uthejitha"
+'5  2  16  ~/uthejitha
+|4,53,2,16,1755665617,"~/uthejitha"
 
 # Jumplist (newest first):
+-'  10  0  ~/.git/COMMIT_EDITMSG
+|4,39,10,0,1755668092,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1755668073,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/raja
+|4,39,2,0,1755667640,"~/raja"
+-'  2  0  ~/raja
+|4,39,2,0,1755667640,"~/raja"
+-'  1  0  ~/raja
+|4,39,1,0,1755667622,"~/raja"
+-'  1  0  ~/raja
+|4,39,1,0,1755667622,"~/raja"
 -'  2  5  ~/.gitignore
 |4,39,2,5,1755667131,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1755667131,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1755667131,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1755667131,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1755666952,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1755666952,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1755666952,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1755666952,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1755666888,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1755666888,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1755666888,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1755666888,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1755666888,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1755666888,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1755666888,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1755666888,"~/.gitignore"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
+-'  2  17  ~/uthejitha
+|4,39,2,17,1755665668,"~/uthejitha"
 -'  2  17  ~/uthejitha
 |4,39,2,17,1755665668,"~/uthejitha"
 -'  2  17  ~/uthejitha
@@ -59,6 +123,78 @@
 |4,39,2,16,1755665617,"~/uthejitha"
 -'  2  16  ~/uthejitha
 |4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  2  16  ~/uthejitha
+|4,39,2,16,1755665617,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
+-'  1  0  ~/uthejitha
+|4,39,1,0,1755665578,"~/uthejitha"
 -'  1  0  ~/uthejitha
 |4,39,1,0,1755665578,"~/uthejitha"
 -'  1  0  ~/uthejitha
@@ -77,6 +213,17 @@
 |4,39,1,0,1755665578,"~/uthejitha"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1755668087	0
+	"	10	0
+
+> ~/raja
+	*	1755667637	0
+	"	2	0
+	^	2	0
+	.	1	6
+	+	1	6
 
 > ~/.gitignore
 	*	1755667126	0
