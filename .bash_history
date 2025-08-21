@@ -83,3 +83,50 @@ git remote -v
 git remote set-url origin git@github.com:uthejitha/code.git
 git remote -v
 git push origin main
+ls a
+ls -a
+git branch
+git checkout main
+git commit -m"raja file created and modified"
+git add .
+git status
+git add raja
+git status
+git log --oneline
+git checkout main
+git add .
+git commit -m"raja file created and modified"
+git checkout main
+git branch
+git log --oneline
+vi harifile
+git checkout main
+ls
+git checkout new
+git add.
+git add .
+git checkout new
+ls
+git branch new
+git branch 
+git checkout new
+git commit -m
+git commit -m"harifile"
+git checkout new
+git add .
+git commit -m"new commit after harifile in new"
+ls
+git add harifilee
+git add harifile
+ls
+ls -a
+git checkout main
+git branch
+ls
+git merge new
+git add .
+git commit -m"this is message"
+git checkout new
+git status
+git checkout main
+git branch
