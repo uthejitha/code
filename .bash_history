@@ -130,3 +130,49 @@ git checkout new
 git status
 git checkout main
 git branch
+ls -a
+git log --oneline
+git checkout main 
+git checkout new
+git log --oneline
+git checkout main 
+ls
+git checkout new
+git add .
+git merge new
+git push origin main
+
+ls
+git checkout main 
+ls
+git add .
+git commit -m"new commit after harifile in new"
+ls
+git checkout main 
+ls
+git merge new
+git checkout new
+git merge new
+git push origin main
+git rm --cached .ssh/id_rsa1
+git rm --cached .ssh/id_rsa
+git commit -m"remove private key from repository"
+git commit -m "Remove private key from repository"
+git status
+git add harifile
+git add .viminfo
+git add .ssh/id_rsa
+ls
+git push origin main
+git rm --cached .ssh/id_rsa
+git commit -m "Resolve conflicts and remove private key from repository"
+git push origin main
+ git config --global --edit
+cd viminfo
+cd>> viminfo
+ls
+rm -rf viminfo
+ls
+cd>> .viminfo
+ls
+vi sai
