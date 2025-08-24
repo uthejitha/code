@@ -176,3 +176,46 @@ ls
 cd>> .viminfo
 ls
 vi sai
+git log --oneline
+git tag -a test -m"my imp commit"
+git log
+git log --oneline
+git tag -a test -m"my imp commit" 5b7cc92
+git tag -a show -m"my imp commit" 5b7cc92
+git show show
+git tag -d show
+git clone 
+git clone git@github.com:uthejitha/code.git
+ls -a
+cat idhyavaradhi
+cat>> vidhyavaradhi
+git add .
+git commit -m"first commit after clone"
+git push origin main
+git branch
+git push origin main
+git pull origin main
+git pull origin mainn
+git pull origin main
+ls -a
+git branch test
+git push -u origin test
+git push origin test
+git branch
+git checkout test
+git push origin test
+git branch
+git checkout new
+git branch -d test
+git branch -D test
+git pull origin main
+cat>> vidhyavaradhi
+ls -a
+git push origin new
+rm -rf raja
+git log
+git show
+ls -a
+git add .
+git commit -m"this file deleted"
+git push origin new
